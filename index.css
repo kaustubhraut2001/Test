@@ -1,0 +1,35 @@
+@media only screen and (min-width: 768px) {}
+
+@media only screen and (min-width: 1024px) {}
+
+.emoji-container {
+    height: 150px;
+    width: 150px;
+}
+
+.emoji-card {
+    display: inline-block;
+    align-items: center;
+    height: auto;
+    width: auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.emoji {
+    font-size: 26px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.category {
+    color: #666;
+}
+
+.group {
+    color: #888;
+}
